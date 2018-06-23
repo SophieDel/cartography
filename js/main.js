@@ -67,6 +67,8 @@ for (i=0; i<len; ++i){
 //var checkedValue = document.querySelector('.messageCheckbox:checked').value;
 // coucou
 
+var bibi = 12;
+
 
 
 
